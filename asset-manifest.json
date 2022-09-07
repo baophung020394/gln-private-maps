@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/baophung020394/gln-private-maps/static/css/main.ff81d916.css",
+    "main.js": "/baophung020394/gln-private-maps/static/js/main.d625cd96.js",
+    "static/js/787.f6271ada.chunk.js": "/baophung020394/gln-private-maps/static/js/787.f6271ada.chunk.js",
+    "index.html": "/baophung020394/gln-private-maps/index.html",
+    "main.ff81d916.css.map": "/baophung020394/gln-private-maps/static/css/main.ff81d916.css.map",
+    "main.d625cd96.js.map": "/baophung020394/gln-private-maps/static/js/main.d625cd96.js.map",
+    "787.f6271ada.chunk.js.map": "/baophung020394/gln-private-maps/static/js/787.f6271ada.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff81d916.css",
+    "static/js/main.d625cd96.js"
+  ]
+}
